@@ -1,5 +1,4 @@
-layout_spectrum: 0.4946237
-typography_spectrum: 1
+layout_spectrum: 0.04301075
 color:
   saturation: 0.2326032
   lightness: 0.6971323
@@ -11,4 +10,5 @@ color:
     - '#935314'
     - '#DDD0BD'
   rhythmicContrast: 0.03976858
+typography_spectrum: 1
 name: Joe of life
